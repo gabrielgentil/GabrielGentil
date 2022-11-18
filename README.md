@@ -2,7 +2,6 @@
 
 
 - 🔭 I’m currently working on SAMI
-- 🌱 I’m currently learning TypeScript
 - 📫 How to reach me: gabriel.sgentil97@gmail.com
 
 Contacts:
